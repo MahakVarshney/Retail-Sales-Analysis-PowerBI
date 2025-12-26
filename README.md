@@ -62,12 +62,13 @@ The dashboard is designed for business stakeholders to quickly understand:
 
 ---
 
-## 📂 Files Included
-- `Retail_Sales_Analysis.pbix` – Power BI dashboard
-- `cleaned_data.csv` – cleaned dataset
-- `data_cleaning.sql` – SQL queries used
+## 📥 Download Dashboard
+Due to GitHub file size limits, the Power BI file is hosted in GitHub Releases.
+
+👉 [Download PBIX file](https://github.com/MahakVarshney/Retail-Sales-Analysis-PowerBI/releases)
 
 ---
+
 
 ## 🚀 Future Enhancements
 - Customer segmentation (RFM analysis)
